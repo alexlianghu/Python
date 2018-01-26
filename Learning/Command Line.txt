@@ -1,0 +1,8 @@
+python /Users/hliang/dropbox/learning/python/script01.py
+python /Users/hliang/dropbox/personal/learning/python/Code001.py
+
+python /Users/hliang/dropbox/personal/learning/python/avro/avro-1-8-1/setup.py
+
+python /Users/hliang/dropbox/personal/learning/Python/Google-Course/exercises/hello.py
+
+sudo python /Users/hliang/dropbox/personal/learning/python/NumPy/numpy-1.11.2/setup.py install
